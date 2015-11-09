@@ -1,0 +1,22 @@
+<gallery>
+<!-- VIDEO
+<ul>
+	<li><a href="/mediaViewer.php?mm=/mediaViewer.php?mm=gallery/video/prova.flv">Tanner</a></li>
+</ul> -->
+<!-- FOTO -->
+<ul>
+	<li><a href="/mediaViewer.php?mm=/mediaViewer.php?mm=gallery/foto/DSCN1061.jpg">1 Tanner</a></li>
+	<li><a href="/mediaViewer.php?mm=/mediaViewer.php?mm=gallery/foto/DSCN1062.jpg">2 Tanner</a></li>
+	<li><a href="/mediaViewer.php?mm=/mediaViewer.php?mm=gallery/foto/DSCN1063.jpg">3 Tanner</a></li>
+	<li><a href="/mediaViewer.php?mm=/mediaViewer.php?mm=gallery/foto/DSCN1064.jpg">4 Tanner</a></li>
+	<li><a href="/mediaViewer.php?mm=/mediaViewer.php?mm=gallery/foto/DSCN1065.jpg">5 Tanner</a></li>
+</ul>
+<!-- MP3
+<ul>
+	<li><a href="/mediaViewer.php?mm=/mediaViewer.php?mm=gallery/mp3/prova.mp3">mp3 Tanner</a></li>
+</ul> -->
+<!-- SWF
+<ul>
+	<li><a href="/mediaViewer.php?mm=/mediaViewer.php?mm=gallery/swf/LPM_Cartesian_Lover.swf">mp3 Tanner</a></li>
+</ul> -->
+</gallery>

@@ -1,0 +1,111 @@
+sp.swf Movie Report
+--------------------
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1           9746           9746    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0            79                   648
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+arrow                                 15             0                     0
+#FFFFFF                               11             0                     0
+empty                                  0             0                     0
+monitor                                0             0                     0
+#000000                               12             0                     0
+indice_curs                            0             0                     0
+indice                                 0             0                     0
+volume                                 0             0                     5
+play-pause                             0             0                     0
+tool_bar                               0            46                     0
+cornice                               20             0                     0
+superplayer                            0            20                    21
+foto_mov_mask                         13             0                     0
+foto_mov                               0             0                     0
+foto_mov_assolvenza                    0             0                  1127
+print_layout                           0             0                     0
+scroll_txt                             0             0                   392
+video                                  0             0                     0
+
+Tweened Shapes: 138 bytes
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+standard 07_53                 2121     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ActionScript Bytes    Location
+------------------    --------
+                 0    foto_mov_mask:Livello 2:1
+                 0    foto_mov_mask:Livello 2:30
+                 0    foto_mov_assolvenza:Livello 2:1
+                24    foto_mov_assolvenza:Livello 2:2
+                24    foto_mov_assolvenza:Livello 2:3
+                24    foto_mov_assolvenza:Livello 2:4
+                24    foto_mov_assolvenza:Livello 2:5
+                24    foto_mov_assolvenza:Livello 2:6
+                24    foto_mov_assolvenza:Livello 2:7
+                24    foto_mov_assolvenza:Livello 2:8
+                24    foto_mov_assolvenza:Livello 2:9
+                24    foto_mov_assolvenza:Livello 2:10
+                24    foto_mov_assolvenza:Livello 2:11
+                24    foto_mov_assolvenza:Livello 2:12
+                24    foto_mov_assolvenza:Livello 2:13
+                24    foto_mov_assolvenza:Livello 2:14
+                24    foto_mov_assolvenza:Livello 2:15
+                24    foto_mov_assolvenza:Livello 2:16
+                24    foto_mov_assolvenza:Livello 2:17
+                24    foto_mov_assolvenza:Livello 2:18
+                24    foto_mov_assolvenza:Livello 2:19
+                24    foto_mov_assolvenza:Livello 2:20
+                24    foto_mov_assolvenza:Livello 2:21
+                24    foto_mov_assolvenza:Livello 2:22
+                24    foto_mov_assolvenza:Livello 2:23
+                24    foto_mov_assolvenza:Livello 2:24
+                24    foto_mov_assolvenza:Livello 2:25
+                24    foto_mov_assolvenza:Livello 2:26
+                24    foto_mov_assolvenza:Livello 2:27
+                24    foto_mov_assolvenza:Livello 2:28
+                24    foto_mov_assolvenza:Livello 2:29
+                15    foto_mov_assolvenza:Livello 2:30
+                22    foto_mov_assolvenza:Livello 2:31
+                22    foto_mov_assolvenza:Livello 2:32
+                22    foto_mov_assolvenza:Livello 2:33
+                22    foto_mov_assolvenza:Livello 2:34
+                22    foto_mov_assolvenza:Livello 2:35
+                22    foto_mov_assolvenza:Livello 2:36
+                22    foto_mov_assolvenza:Livello 2:37
+                22    foto_mov_assolvenza:Livello 2:38
+                22    foto_mov_assolvenza:Livello 2:39
+                22    foto_mov_assolvenza:Livello 2:40
+                22    foto_mov_assolvenza:Livello 2:41
+                22    foto_mov_assolvenza:Livello 2:42
+                22    foto_mov_assolvenza:Livello 2:43
+                22    foto_mov_assolvenza:Livello 2:44
+                22    foto_mov_assolvenza:Livello 2:45
+                22    foto_mov_assolvenza:Livello 2:46
+                22    foto_mov_assolvenza:Livello 2:47
+                22    foto_mov_assolvenza:Livello 2:48
+                22    foto_mov_assolvenza:Livello 2:49
+                22    foto_mov_assolvenza:Livello 2:50
+                 0    volume:Livello 2:1
+                 2    volume:Livello 1:1:No instance name assigned(#FFFFFF)
+                 3    volume:Livello 3:1:path(#000000)
+                 0    volume:Livello 2:2
+                 0    play-pause:Livello 3:1
+                 0    play-pause:Livello 3:2
+               539    Scene 1:Layer 2:1
+                77    Scene 1:Layer 3:1
+               392    scroll_txt:Livello 2:1
+                16    Scene 1:Layer 1:1:scroll_app_0(scroll_txt)
+                16    Scene 1:Layer 1:1:scroll_app_1(scroll_txt)
+                21    superplayer:tool_bar:1
+              4070    ActionScript 2.0 Classes
+
+Video                       Compressed
+------------------------    ----------
+vid_flv                               0
+
+
+
+

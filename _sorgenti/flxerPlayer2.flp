@@ -1,0 +1,12 @@
+﻿<flash_project name="flxerPlayer2" version="1">
+    <project_folder name="main" expanded="true">
+        <project_file path="./main/flxerPlayer.as" filetype="as" />
+        <project_file path="./main/xmlLoader.as" filetype="as" />
+        <project_file path="./main/drawerFunc.as" filetype="as" />
+        <project_file path="./main/flvLoader.as" filetype="as" />
+        <project_file path="./main/mcLoader.as" filetype="as" />
+        <project_file path="./main/myTween.as" filetype="as" />
+    </project_folder>
+    <project_file path="./starter.as" filetype="as" />
+    <project_file path="./flxerPlayer2.fla" filetype="fla" profile="" def_file="true" />
+</flash_project>
